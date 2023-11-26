@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on few eCommerce projects.
+- 🔭 I’m currently working on a few eCommerce projects.
 - 🌱 I’m currently learning bunch of IT stuff.
 - 👯 I’m looking to collaborate on anything.
 - 💬 Ask me about my T-Rex.
