@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on few eCommerce projects.
+- 🌱 I’m currently learning bunch of IT stuff.
+- 👯 I’m looking to collaborate on anything.
+- 💬 Ask me about my T-Rex.
+
+
 <!--
 **mazerunner71/mazerunner71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
